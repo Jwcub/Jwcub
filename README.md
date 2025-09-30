@@ -1,4 +1,4 @@
-# Hello world!
+# Hello world! 👋
 
 My name is Kevin Maninnerby. I'm a studying to become a web developer at Mid Sweden University.
 
