@@ -51,4 +51,4 @@ A responsive web app that recommends movies based on the user's choices by combi
 Got an idea for a thesis project, or want to know more about my work? Feel free to reach out.
 
 - [LinkedIn](https://www.linkedin.com/in/kevin-maninnerby-77833669)
-- [Email](@k.maninnerby@gmail.com)
+- [Email](mailto:k.maninnerby@gmail.com)
