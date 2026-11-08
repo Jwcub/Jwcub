@@ -38,14 +38,6 @@ A tool for students to search, filter, and organize courses into a custom schedu
 - **Focus:** Components and services, pagination, and responsive UI with dark and light mode
 - **Links:** [Live Demo](https://academiauni.netlify.app/) | [Source Code](https://github.com/Jwcub/Academia)
 
-### 🎬 Filmtips – Movie Recommender
-
-A responsive web app that recommends movies based on the user's choices by combining data from multiple external APIs.
-
-- **Tech:** JavaScript, Sass, Vite, Vercel
-- **Focus:** API integrations, asynchronous data fetching, and error handling
-- **Links:** Live Demo | Source Code
-
 ## Let's Connect!
 
 Got an idea for a thesis project, or want to know more about my work? Feel free to reach out.
